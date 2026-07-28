@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="juegoo (Copy)"
-run/main_scene="uid://by7fr3gmq6cv4"
+config/name="TIENE MENU( NO TOCAR) (Copy)1"
+run/main_scene="uid://b7fop5s0gr413"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -22,6 +22,8 @@ buses/default_bus_layout="uid://33nmfvjdafak"
 [autoload]
 
 Musica="*uid://dtmgcsi7l0k4f"
+SaveManager="*uid://j3snyijgdue6"
+Global="*uid://eoyqdut0ghr5"
 
 [display]
 
