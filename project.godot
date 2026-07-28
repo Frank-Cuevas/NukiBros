@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="TIENE MENU( NO TOCAR) (Copy)1"
-run/main_scene="uid://b7fop5s0gr413"
+config/name="JUEGO 2D"
+run/main_scene="uid://dblhpqu6tw2wy"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
